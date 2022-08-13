@@ -1,0 +1,7 @@
+C:\Users\Joker\source\repos\Rust-NoEAC\Rust-NoEAC\bin\Debug\Rust-NoEAC.exe.config
+C:\Users\Joker\source\repos\Rust-NoEAC\Rust-NoEAC\bin\Debug\Rust-NoEAC.exe
+C:\Users\Joker\source\repos\Rust-NoEAC\Rust-NoEAC\bin\Debug\Rust-NoEAC.pdb
+C:\Users\Joker\source\repos\Rust-NoEAC\Rust-NoEAC\obj\Debug\Rust-NoEAC.csproj.AssemblyReference.cache
+C:\Users\Joker\source\repos\Rust-NoEAC\Rust-NoEAC\obj\Debug\Rust-NoEAC.csproj.CoreCompileInputs.cache
+C:\Users\Joker\source\repos\Rust-NoEAC\Rust-NoEAC\obj\Debug\Rust-NoEAC.exe
+C:\Users\Joker\source\repos\Rust-NoEAC\Rust-NoEAC\obj\Debug\Rust-NoEAC.pdb
